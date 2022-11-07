@@ -1,3 +1,8 @@
+#memeland gitignore, DO NOT EDIT
+
+#custom things
+flask_session/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

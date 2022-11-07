@@ -1,0 +1,5 @@
+flask
+Flask-Session
+flask-sqlalchemy
+flask-migrate
+pymysql
